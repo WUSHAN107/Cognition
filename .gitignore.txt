@@ -1,0 +1,23 @@
+# Unreal Engine 5 .gitignore
+
+# Intermediate build files
+/Intermediate/
+/DerivedDataCache/
+
+# Local user settings and logs
+/Saved/
+/Config/WindowsEditor/
+*.log
+
+# Compiled binaries
+/Binaries/
+
+# Visual Studio files
+*.sln
+*.suo
+*.vsconfig
+/.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
